@@ -30,3 +30,5 @@ where <inputfile> is the path of the file to be encrypted
 ### For decrypting
     $ ./encdec d <inputfile>
 where <inputfile> is the path of the file to be decrypted
+
+For both the cases the output will be generated in the same directory as the input file
