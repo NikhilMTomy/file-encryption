@@ -21,7 +21,7 @@ Done
         $ cd file-encryption
 - Step 2 : Make all the sh files executable (not necessary for install.sh)  
 
-        $ chmod +x ./encdec.sh ./help.sh ./install.sh
+        $ chmod +x ./encdec ./help ./install.sh
 Done
 ## Usage
 ### For encrypting
